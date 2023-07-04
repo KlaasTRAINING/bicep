@@ -18,7 +18,7 @@ BicepCopy
 
 resource appServicePlan 'Microsoft.Web/serverFarms@2022-03-01' = {
 
-name: 'toy-product-launch-plan-starter'
+name: 'toy-product-launch-plan-starter1556'
 
 location: 'westus3'
 
